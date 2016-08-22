@@ -1,2 +1,2 @@
-# Rust-by-Example
+# Rust-by-Example with solutions
 http://rustbyexample.com/index.html
